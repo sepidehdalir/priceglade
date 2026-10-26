@@ -6,7 +6,7 @@
 
 [Product and guide](https://sepidehdalir.github.io/priceglade/) · [Privacy](https://sepidehdalir.github.io/priceglade/privacy.html) · [iOS portfolio](https://github.com/sepidehdalir/ios-app-portfolio)
 
-**Production checkpoint — October 26, 2026. Version 1.0 (2) is uploaded. The app is not submitted, approved or released.** Physical execution, final device installation, genuine Sandbox workflows and Apple privacy/submission gates remain pending. TestFlight is skipped by publisher instruction.
+**Production checkpoint — October 26, 2026. Version 1.0 (2) is uploaded. The app is not submitted, approved or released.** All 46 selected physical cases passed on the owned iPhone running iOS 27.2, and the exact archived Release is installed and open. Publisher hardware workflows, genuine Sandbox and Apple privacy/submission gates remain pending. TestFlight is skipped by publisher instruction.
 
 ## The job
 
@@ -32,7 +32,7 @@ Build 2 passed 50 native iOS 17 cases covering calculation rules, real Vision re
 
 Earlier dated checks cover the reviewed manual workflow, ten-product limit followed by local Pro access, saved scan drafts, corrections/Undo/Trash/relaunch/archived restoration, narrow landscape, dark text, and native Files JSON/CSV save/open and backup import. Forty-six selected domain/native/model cases passed on the current iPad simulator before the final constants cleanup. These checkpoints retain their individual source and device scopes.
 
-The signed build 2 archive and App Store export passed strict signature, identity, minimum-OS, Universal, privacy, resource and debug-hook audits. Apple confirmed upload succeeded. Local StoreKit and simulator evidence remain distinct from physical-device and genuine Sandbox verification. Actual iOS 15 runtime and spoken VoiceOver remain unverified.
+The signed build 2 archive and App Store export passed strict signature, identity, minimum-OS, Universal, privacy, resource and debug-hook audits. Apple confirmed upload succeeded, and build 2 is selected. All 46 selected domain, native I/O and model cases also passed on the owned iPhone with zero failures or skips; the exact archived Release was then installed and launched. Local StoreKit and automated physical evidence remain distinct from the pending publisher workflows and genuine Sandbox verification. Actual iOS 15 runtime and spoken VoiceOver remain unverified.
 
 ## Original campaign
 
